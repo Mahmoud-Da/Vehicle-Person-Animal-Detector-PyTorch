@@ -8,9 +8,8 @@ torch = "2.7.1"
 torchvision = "0.22.1"
 pycocotools = "2.0.10"
 pillow = "11.2.1"
-transforms = "*"
-tqdm = "*"
-opencv-python = "*"
+tqdm = "4.67.1"
+opencv-python = "4.11.0.86"
 
 [dev-packages]
 
