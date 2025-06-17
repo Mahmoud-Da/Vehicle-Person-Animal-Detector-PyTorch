@@ -13,7 +13,8 @@ The project supports two main workflows:
 
 ## Demo
 
-![Demo Image](./outputs/street_output.jpg)
+![Demo Image](![street_detected_20250610_004600](https://github.com/user-attachments/assets/3033a12e-f865-41fa-99e1-2a717a47e4c4)
+)
 _An example output image with bounding boxes. **Vehicles** are green, **people** are red, and **animals** are yellow._
 
 ## Features
