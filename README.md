@@ -1,7 +1,7 @@
 # Vehicle, Person, and Animal Detector with PyTorch
 
-![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repo-name?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Mahmoud-Da/Vehicle-Person-Animal-Detector-PyTorch?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Mahmoud-Da/Vehicle-Person-Animal-Detector-PyTorch?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 This project uses a pre-trained Faster R-CNN model from PyTorch's `torchvision` library to detect and classify objects in images. It identifies a wide range of objects from the COCO dataset and groups them into three main categories: **vehicles**, **people**, and **animals**, drawing colored bounding boxes around each.
